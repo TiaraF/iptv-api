@@ -58,50 +58,71 @@ CETV-4
 新疆卫视
 云南卫视
 
-🌍English World News,#genre#
+🌍News & Politics,#genre#
 BBC News
 Sky News
-CNN International
-CNBC US
-Bloomberg Television
-Al Jazeera English
-France 24 English
-DW English
-Euronews English
+CNN
+CNBC
+Bloomberg
+Al Jazeera
+France 24
+DW
+Euronews
 CNA
-NHK World Japan
-CGTN English
+NHK World
+CGTN
+Reuters
+ABC News
+CBS News
+NBC News
 
-📚Education & Documentary,#genre#
-Discovery Channel
+🎓Documentary & Education,#genre#
+Discovery
+Nat Geo
 National Geographic
-History Channel
-Animal Planet
-Science Channel
-TED-Ed
-PBS
-Smithsonian Channel
+History
 BBC Earth
+Animal Planet
+Science
+Smithsonian
+PBS
+TED
+Curiosity
 
 🎬Entertainment & Movies,#genre#
-Movie Mix
-Film4
-Hallmark Channel
-Comedy Central
+Movie
+Film
+Hallmark
+Comedy
 MTV
-Cartoon Network
-Disney Channel
+Cartoon
+Disney
 Nickelodeon
+AMC
+HBO
+Paramount
 
 💬Talk & Lifestyle,#genre#
-NBC News NOW
+NBC
 USA Today
-ABC News Live
-CBS News
-Weather Channel
-Food Network
-Travel Channel
+Weather
+Food
+Travel
 HGTV
+TLC
+E!
+Vice
+CNN Travel
+Lifestyle
+Talk
 
-🌍其他频道,#genre#
-.*
+🏃Kids & English Learning,#genre#
+Nick Jr
+CBeebies
+Disney Junior
+PBS Kids
+Cartoonito
+English
+Learning
+Education
+Language
