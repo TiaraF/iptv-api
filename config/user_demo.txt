@@ -102,3 +102,6 @@ Weather Channel
 Food Network
 Travel Channel
 HGTV
+
+🌍其他频道,#genre#
+.*
