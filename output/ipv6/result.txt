@@ -1,0 +1,19 @@
+🕘️更新时间,#genre#
+2026-05-21 20:43:27,https://xykt-fix.github.io/Y77.m3u8
+
+📺央视频道,#genre#
+CCTV-9,https://xykt-fix.github.io/Y77.m3u8
+CCTV-13,https://cdn3.163189.xyz/163189/cctv13
+
+📡卫视频道,#genre#
+
+🌍English World News,#genre#
+
+📚Education & Documentary,#genre#
+
+🎬Entertainment & Movies,#genre#
+Comedy Central,https://jmp2.uk/plu-64f8a408bd341e000818fcda.m3u8
+Comedy Central,https://jmp2.uk/plu-61c0989431084d0007eab12d.m3u8
+Comedy Central,https://jmp2.uk/plu-61c0b550e0d3a700072b6a2a.m3u8
+
+💬Talk & Lifestyle,#genre#
