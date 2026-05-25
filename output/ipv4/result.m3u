@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="http://ghp.keleyaa.com/https://raw.githubusercontent.com/TiaraF/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-id="BBC" tvg-name="BBC" tvg-logo="https://www.xn--rgv465a.top/tvlogo/BBC.png" group-title="🕘️更新时间",2026-05-25 19:00:33
+#EXTINF:-1 tvg-id="BBC" tvg-name="BBC" tvg-logo="https://www.xn--rgv465a.top/tvlogo/BBC.png" group-title="🕘️更新时间",2026-05-25 19:15:33
 https://bloomberg.com/media-manifest/streams/us.m3u8
 #EXTINF:-1 tvg-id="Bloomberg" tvg-name="Bloomberg" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Bloomberg.png" group-title="🌍News & Politics",Bloomberg
 https://bloomberg.com/media-manifest/streams/us.m3u8
