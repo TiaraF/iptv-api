@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-05-25 18:45:05,https://bloomberg.com/media-manifest/streams/us.m3u8
+2026-05-25 19:00:33,https://bloomberg.com/media-manifest/streams/us.m3u8
 
 🌍News & Politics,#genre#
 Bloomberg,https://bloomberg.com/media-manifest/streams/us.m3u8
