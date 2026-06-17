@@ -1,27 +1,27 @@
 #EXTM3U x-tvg-url="http://ghp.keleyaa.com/https://raw.githubusercontent.com/TiaraF/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-id="BBC" tvg-name="BBC" tvg-logo="https://www.xn--rgv465a.top/tvlogo/BBC.png" group-title="🕘️更新时间",2026-05-25 19:15:33
+#EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CNN.png" group-title="🕘️更新时间",2026-06-17 20:09:30
 https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CNN.png" group-title="🌍News & Politics",CNN
+#EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CNN.png" group-title="♻️未匹配频道",CNN
 https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CNN.png" group-title="🌍News & Politics",CNN
+#EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CNN.png" group-title="♻️未匹配频道",CNN
 https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_us/streams/us/CNNUSA.us.m3u8
-#EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CNN.png" group-title="🌍News & Politics",CNN
+#EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CNN.png" group-title="♻️未匹配频道",CNN
 https://jmp2.uk/sam-GBBD8000016N.m3u8
-#EXTINF:-1 tvg-id="France 24" tvg-name="France 24" tvg-logo="https://www.xn--rgv465a.top/tvlogo/France 24.png" group-title="🌍News & Politics",France 24
+#EXTINF:-1 tvg-id="France 24" tvg-name="France 24" tvg-logo="https://www.xn--rgv465a.top/tvlogo/France 24.png" group-title="♻️未匹配频道",France 24
 https://ythls.armelin.one/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg.m3u8
-#EXTINF:-1 tvg-id="DW" tvg-name="DW" tvg-logo="https://www.xn--rgv465a.top/tvlogo/DW.png" group-title="🌍News & Politics",DW
+#EXTINF:-1 tvg-id="DW" tvg-name="DW" tvg-logo="https://www.xn--rgv465a.top/tvlogo/DW.png" group-title="♻️未匹配频道",DW
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:-1 tvg-id="Euronews" tvg-name="Euronews" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Euronews.png" group-title="🌍News & Politics",Euronews
+#EXTINF:-1 tvg-id="Euronews" tvg-name="Euronews" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Euronews.png" group-title="♻️未匹配频道",Euronews
 https://jmp2.uk/plu-60d3583ef310610007fb02b1.m3u8
-#EXTINF:-1 tvg-id="Euronews" tvg-name="Euronews" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Euronews.png" group-title="🌍News & Politics",Euronews
+#EXTINF:-1 tvg-id="Euronews" tvg-name="Euronews" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Euronews.png" group-title="♻️未匹配频道",Euronews
 https://jmp2.uk/plu-61b86ea479a4390007c6d5fc.m3u8
-#EXTINF:-1 tvg-id="Euronews" tvg-name="Euronews" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Euronews.png" group-title="🌍News & Politics",Euronews
+#EXTINF:-1 tvg-id="Euronews" tvg-name="Euronews" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Euronews.png" group-title="♻️未匹配频道",Euronews
 https://jmp2.uk/plu-61de8e502c8e9400077e5de7.m3u8
-#EXTINF:-1 tvg-id="Euronews" tvg-name="Euronews" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Euronews.png" group-title="🌍News & Politics",Euronews
+#EXTINF:-1 tvg-id="Euronews" tvg-name="Euronews" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Euronews.png" group-title="♻️未匹配频道",Euronews
 https://jmp2.uk/plu-61de90a47365340007f77c27.m3u8
-#EXTINF:-1 tvg-id="CNA" tvg-name="CNA" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CNA.png" group-title="🌍News & Politics",CNA
+#EXTINF:-1 tvg-id="CNA" tvg-name="CNA" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CNA.png" group-title="♻️未匹配频道",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CGTN.png" group-title="🌍News & Politics",CGTN
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CGTN.png" group-title="♻️未匹配频道",CGTN
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
-#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CGTN.png" group-title="🌍News & Politics",CGTN
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CGTN.png" group-title="♻️未匹配频道",CGTN
 https://0472.org/hls/cgtn.m3u8

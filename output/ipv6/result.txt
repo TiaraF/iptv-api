@@ -1,7 +1,7 @@
 🕘️更新时间,#genre#
-2026-05-25 19:15:33,https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+2026-06-17 20:09:30,https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
-🌍News & Politics,#genre#
+♻️未匹配频道,#genre#
 CNN,https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 CNN,https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_us/streams/us/CNNUSA.us.m3u8
 CNN,https://jmp2.uk/sam-GBBD8000016N.m3u8
@@ -14,9 +14,3 @@ Euronews,https://jmp2.uk/plu-61de90a47365340007f77c27.m3u8
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 CGTN,https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 CGTN,https://0472.org/hls/cgtn.m3u8
-
-🎓Documentary & Education,#genre#
-
-🎬Entertainment & Movies,#genre#
-
-💬Talk & Lifestyle,#genre#
